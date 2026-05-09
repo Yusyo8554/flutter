@@ -7,3 +7,7 @@
     ],
     "files.trimTrailingWhitespace": true
 }
+
+{
+  "dart.flutterSdkPath": ".fvm/flutter_sdk"
+}
